@@ -1,4 +1,13 @@
-## Hi there 👋
+## 
+FerCruss / BotCross MEX 🇲🇽
+🤖🤖🤖
+
+Hi there 👋
+
+I am currently working as RPA Developer.
+With experience in Uipath, Automation Anywhere and python's automations.
+
+
 
 <!--
 **FerCruss/FerCruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
